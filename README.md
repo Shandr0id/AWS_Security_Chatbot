@@ -32,9 +32,9 @@ aws sso login --profile <your_profile>
             python aws_sec_chatbot/main.py
 
 # TOOLS USED IN THIS PROJECT:
-- - OpenAI's API: https://openai.com/index/openai-api/
+- OpenAI's API: https://openai.com/index/openai-api/
 - LangGraph/LangChain: https://docs.langchain.com/oss/python/langchain/overview, https://reference.langchain.com/python/langchain/agents/
-- AWS CLI, and my own AWS management account (where Identity Center lives) /sub account (where resources interrogated in example output lived): https://docs.aws.amazon.com/cli/latest/reference/
+- AWS CLI, and my own AWS management account (where Identity Center lives) /sub account (where resources interrogated in example output lived):                 https://docs.aws.amazon.com/cli/latest/reference/
 - AWS API (and boto3) Documentation: https://docs.aws.amazon.com/, https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
 - VS Code
 - MacOS
