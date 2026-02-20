@@ -1,4 +1,4 @@
-# WHAT I AM: This is a MVP demo utility for a human-interactive Chatbot that an end user can connect with their AWS account(s) to ask it security questions specifically about their environment.
+# WHAT I AM: This is a MVP demo utility for a human-interactive chatbot that an end user can connect with their AWS account(s) to ask it security questions specifically about their environment.
 
 # WHAT I DO: 
 # I Answer questions about:
