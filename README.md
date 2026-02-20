@@ -10,8 +10,8 @@
 
         - IAM/IDENTITY CENTER: Connects with Identity Center and scans user permission sets/account access and can answer broadly "Who has admin access", and specifically "What permissions does user X have?" (Identity Center is a harder API to work with, requires special perms, and is better security architecture which is why I selected it over IAM for this challenge)
 
-                *NOTE 1: Account using the AWS chatbot must have explicit SSO inline policies, that AWS managed policies do not provide, to operate correctly (please refer to images)*
-                *NOTE 2: Project assumes region is us-east-1 is all that exists in the universe*
+        *NOTE 1: Account using the AWS chatbot must have explicit SSO inline policies, that AWS managed policies do not provide, to operate correctly (please refer to images)*
+        *NOTE 2: Project assumes region is us-east-1 is all that exists in the universe*
 
 # HOW I WORK:
 1. Import .env variables, OpenAI API key, SSO profiles
